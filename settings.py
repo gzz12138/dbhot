@@ -1,4 +1,6 @@
 # REDIS
+# python
+
 import os
 
 REDIS = {
