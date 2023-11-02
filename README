@@ -1,0 +1,12 @@
+machinetools询盘爬虫
+
+功能：
+    采集machinetools上的询盘爬虫。对其进行筛选以及上传
+
+文件：
+    1.get_all_demands.py: 获取询盘目录
+    2.get_demands_details.py：筛选并获取询盘详情，并上传
+
+
+运行：
+    python get_demands_details.py
